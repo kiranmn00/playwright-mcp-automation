@@ -1,42 +1,33 @@
 # Playwright MCP Automation
 
-## Overview
-
-This project demonstrates AI-assisted UI automation using Playwright and MCP-style workflows.
-
-The framework focuses on automated browser interaction, UI validation, and verification-driven testing.
+AI-assisted UI automation framework inspired by real-world Playwright MCP workflows.
 
 ## Features
 
-* Browser automation using Playwright
-* Automated page validation
-* UI element verification
-* Screenshot capture
-* Error handling and logging
-* Regression testing support
+- Browser Automation
+- Element Verification
+- Screenshot Capture
+- Validation Pipelines
+- Error Handling
+- Execution Reporting
 
-## Technology Stack
+## Technologies
 
-* Python
-* Playwright
-* Git
+- Python
+- Playwright
+- MCP Workflows
+- UI Automation
 
-## Example Workflow
+## Use Cases
 
-1. Launch browser
-2. Navigate to target application
-3. Validate page title
-4. Verify UI elements
-5. Capture execution results
-6. Generate logs/screenshots
+- Frontend Validation
+- Regression Testing
+- Automated Verification
+- AI-Assisted Test Generation
 
 ## Future Enhancements
 
-* LLM-assisted test generation
-* MCP integration
-* AI-driven test maintenance
-* Automated reporting
-
-## Author
-
-Kiran M N
+- LLM-based test generation
+- MCP server integration
+- Automated self-healing locators
+- Agent-driven UI testing
